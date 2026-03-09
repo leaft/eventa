@@ -23,6 +23,14 @@ ni @moeru/eventa
 yarn add @moeru/eventa
 ```
 
+### Agent Skills
+
+Install the [eventa skill](https://skills.sh) to your AI coding agent:
+
+```sh
+npx skills add moeru-ai/eventa
+```
+
 ## Getting Started
 
 ### Event
